@@ -24,7 +24,7 @@ spec:
         volumeMode: Filesystem
   image:
     name: cockroachdb/cockroach:v21.1.7
-  nodes: 1
+  nodes: 2
 # apiVersion: crdb.cockroachlabs.com/v1alpha1
 # kind: CrdbCluster
 # metadata:
