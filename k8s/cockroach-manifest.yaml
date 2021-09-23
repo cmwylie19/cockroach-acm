@@ -21,7 +21,7 @@ spec:
     limits:
       cpu: 2
       memory: 8Gi
-  tlsEnabled: true
+  tlsEnabled: false
 # You can set either a version of the db or a specific image name
 # cockroachDBVersion: v21.1.7
   image:
