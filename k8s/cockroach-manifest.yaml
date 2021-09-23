@@ -28,6 +28,6 @@ spec:
     name: cockroachdb/cockroach:v21.1.7
   # nodes refers to the number of crdb pods that are created
   # via the statefulset
-  nodes: 1
+  nodes: 2
   additionalLabels:
     crdb: us-east-1
